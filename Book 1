@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harry Potter and the Philosopher's Stone</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f8f0e3; color: #2f4f4f; margin: 0; padding: 0 20px;">
+    <h1 style="text-align: center; color: #8b0000; margin: 20px 0;">
+        Harry Potter and the Philosopher's Stone
+    </h1>
+    <img src="book1.jpg" alt="Harry Potter and the Philosopher's Stone" style="display: block; margin: 0 auto; width: 200px; height: auto;">
+    <section style="background-color: #fff8dc; border: 1px solid #d2b48c; padding: 15px; border-radius: 8px; margin: 20px 0;">
+        <h2 style="color: #2f4f4f;">Book Details</h2>
+        <p><strong>Author:</strong> J.K. Rowling</p>
+        <p><strong>Price:</strong> ₹1000</p>
+        <p><strong>Genre:</strong> Fantasy</p>
+        <p>The book that started it all! Discover Harry's first year at Hogwarts as he learns magic, makes friends, and faces his first encounter with Voldemort.</p>
+    </section>
+    <section style="background-color: #fff8dc; border: 1px solid #d2b48c; padding: 15px; border-radius: 8px; margin: 20px 0;">
+        <h2 style="color: #2f4f4f;">Reviews</h2>
+        <p>"A magical masterpiece! The beginning of an epic journey." - Book Reviewer</p>
+        <p>"Enchanting, captivating, and a must-read for all ages." - The Daily Prophet</p>
+    </section>
+    <footer style="text-align: center; margin-top: 20px; background-color: #2f4f4f; color: #ffffff; padding: 10px;">
+        <p><a href="LECTURE3.html" style="color: #ffffff;">Back to Hogstore Menu</a></p>
+    </footer>
+</body>
+</html>
